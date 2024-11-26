@@ -1,0 +1,33 @@
+.hero{
+    text-align: center;
+    height: 692px;
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+
+.hero h2{
+    font-size: 58px;
+    font-weight: 600;
+}
+
+.hero p{
+    font-size: 30px;
+    margin-top: 10px;
+    font-weight: 400;
+}
+
+.hero button{
+    padding:10px 25px;
+    border-radius: 20px;
+    border: 1px solid blue;
+    margin: 10px;
+    margin-top: 30px;
+    background: none;
+    font-size: 18px;
+    color: blue;
+}
+
+.hero button:hover{
+    background: blue;
+    color: #fff;
+}
